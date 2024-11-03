@@ -43,5 +43,3 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshbigmouse&theme=radical" alt="joshbigmouse" /></p>
 
 ---
-
-P.S. If you want to make a GitHub profile README like this, check out this [tutorial](https://youtu.be/DWFs6aqknqw?si=oX-In0gOUUZiqINh)! 😊
