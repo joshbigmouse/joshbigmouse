@@ -36,10 +36,10 @@
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
 # 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshbigmouse&show_icons=true&locale=en&layout=compact&theme=radical" alt="joshbigmouse" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=joshbigmouse&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="joshbigmouse" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshbigmouse&show_icons=true&locale=en&theme=radical" alt="joshbigmouse" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=joshbigmouse&show_icons=true&locale=en&theme=tokyonight" alt="joshbigmouse" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshbigmouse&theme=radical" alt="joshbigmouse" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joshbigmouse&theme=tokyonight" alt="joshbigmouse" /></p>
 
 ---
